@@ -151,12 +151,12 @@ class ListViewScreen extends StatelessWidget {
                   title: Text('User 1 (Tĩnh)'),
                   subtitle: Text('Email: user1@gmail.com'),
                   onTap: () {
-                    _showUserInfo(context, 'User 1 (Tĩnh)', 'user1@egmail.com');
+                    _showUserInfo(context, 'anh 1 (Tĩnh)', 'user1@egmail.com');
                   },
                 ),
                 ListTile(
                   leading: Icon(Icons.person),
-                  title: Text('User 2 (Tĩnh)'),
+                  title: Text('van 2 (Tĩnh)'),
                   subtitle: Text('Email: user2@gmail.com'),
                   onTap: () {
                     _showUserInfo(context, 'User 2 (Tĩnh)', 'user2@gmail.com');
